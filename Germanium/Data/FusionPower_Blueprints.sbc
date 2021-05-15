@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Blueprints>
+		<Blueprint>
+			<Id>
+				<TypeId>BlueprintDefinition</TypeId>
+				<SubtypeId>GermaniumOreToIngot</SubtypeId>
+			</Id>
+			<DisplayName>1 Litre Deuterium Container</DisplayName>
+			<Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>
+			<Prerequisites>
+				<Item Amount="1" TypeId="Ore" SubtypeId="Germanium" />
+			</Prerequisites>
+			<Results>
+        			<Item Amount="1" TypeId="Ingot" SubtypeId="Germanium" />
+      			</Results>
+			<BaseProductionTimeInSeconds>5</BaseProductionTimeInSeconds>
+		</Blueprint> 
+	</Blueprints>
+</Definitions>
