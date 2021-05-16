@@ -1,0 +1,135 @@
+    
+    <PhysicalItem>
+        <Id>
+            <TypeId>Ingot</TypeId>
+            <SubtypeId>Arsenic</SubtypeId>
+        </Id>
+        <DisplayName>Arsenic Crystal</DisplayName>
+        <Icon>Textures\GUI\Icons\Ingots\As_aresenic.dds</Icon>
+        <Size>
+            <X>0.037</X>
+            <Y>0.037</Y>
+            <Z>0.037</Z>
+        </Size>
+        <Mass>1</Mass>
+        <Volume>0.052</Volume>
+        <Model>Models\Ingots\uranium_ingot.mwm</Model>
+        <PhysicalMaterial>Metal</PhysicalMaterial>
+        <IconSymbol>IconSymbol_U</IconSymbol>
+        <MinimumOfferAmount>100</MinimumOfferAmount>
+        <MaximumOfferAmount>1000</MaximumOfferAmount>
+        <MinimumOrderAmount>10</MinimumOrderAmount>
+        <MaximumOrderAmount>1000</MaximumOrderAmount>
+        <CanPlayerOrder>true</CanPlayerOrder>
+
+        <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+        <MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
+    </PhysicalItem>
+
+    <PhysicalItem>
+        <Id>
+            <TypeId>Ingot</TypeId>
+            <SubtypeId>Gallium</SubtypeId>
+        </Id>
+        <DisplayName>Gallium Ingot</DisplayName>
+        <Icon>Textures\GUI\Icons\Ingots\Ga_gallium.dds</Icon>
+        <Size>
+            <X>0.037</X>
+            <Y>0.037</Y>
+            <Z>0.037</Z>
+        </Size>
+        <Mass>1</Mass>
+        <Volume>0.052</Volume>
+        <Model>Models\Ingots\uranium_ingot.mwm</Model>
+        <PhysicalMaterial>Metal</PhysicalMaterial>
+        <IconSymbol>IconSymbol_U</IconSymbol>
+        <MinimumOfferAmount>100</MinimumOfferAmount>
+        <MaximumOfferAmount>1000</MaximumOfferAmount>
+        <MinimumOrderAmount>10</MinimumOrderAmount>
+        <MaximumOrderAmount>1000</MaximumOrderAmount>
+        <CanPlayerOrder>true</CanPlayerOrder>
+
+        <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+        <MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
+    </PhysicalItem>
+
+    <PhysicalItem>
+        <Id>
+            <TypeId>Ingot</TypeId>
+            <SubtypeId>Germanium</SubtypeId>
+        </Id>
+        <DisplayName>Germanium Ingot</DisplayName>
+        <Icon>Textures\GUI\Icons\Ingots\Ge_germanium.dds</Icon>
+        <Size>
+            <X>0.037</X>
+            <Y>0.037</Y>
+            <Z>0.037</Z>
+        </Size>
+        <Mass>1</Mass>
+        <Volume>0.052</Volume>
+        <Model>Models\Ingots\uranium_ingot.mwm</Model>
+        <PhysicalMaterial>Metal</PhysicalMaterial>
+        <IconSymbol>IconSymbol_U</IconSymbol>
+        <MinimumOfferAmount>100</MinimumOfferAmount>
+        <MaximumOfferAmount>1000</MaximumOfferAmount>
+        <MinimumOrderAmount>10</MinimumOrderAmount>
+        <MaximumOrderAmount>1000</MaximumOrderAmount>
+        <CanPlayerOrder>true</CanPlayerOrder>
+
+        <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+        <MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
+    </PhysicalItem>
+    
+    <PhysicalItem>
+        <Id>
+            <TypeId>Ingot</TypeId>
+            <SubtypeId>Vanadium</SubtypeId>
+        </Id>
+        <DisplayName>Vanadium Ingot</DisplayName>
+        <Icon>Textures\GUI\Icons\Ingots\V_vanadium.dds</Icon>
+        <Size>
+            <X>0.037</X>
+            <Y>0.037</Y>
+            <Z>0.037</Z>
+        </Size>
+        <Mass>1</Mass>
+        <Volume>0.052</Volume>
+        <Model>Models\Ingots\uranium_ingot.mwm</Model>
+        <PhysicalMaterial>Metal</PhysicalMaterial>
+        <IconSymbol>IconSymbol_U</IconSymbol>
+        <MinimumOfferAmount>100</MinimumOfferAmount>
+        <MaximumOfferAmount>1000</MaximumOfferAmount>
+        <MinimumOrderAmount>10</MinimumOrderAmount>
+        <MaximumOrderAmount>1000</MaximumOrderAmount>
+        <CanPlayerOrder>true</CanPlayerOrder>
+
+        <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+        <MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
+    </PhysicalItem>
+    
+    <PhysicalItem>
+        <Id>
+            <TypeId>Ingot</TypeId>
+            <SubtypeId>Tungsten</SubtypeId>
+        </Id>
+        <DisplayName>Tungsten Ingot</DisplayName>
+        <Icon>Textures\GUI\Icons\Ingots\W_tungsten.dds</Icon>
+        <Size>
+            <X>0.037</X>
+            <Y>0.037</Y>
+            <Z>0.037</Z>
+        </Size>
+        <Mass>1</Mass>
+        <Volume>0.052</Volume>
+        <Model>Models\Ingots\uranium_ingot.mwm</Model>
+        <PhysicalMaterial>Metal</PhysicalMaterial>
+        <IconSymbol>IconSymbol_U</IconSymbol>
+        <MinimumOfferAmount>100</MinimumOfferAmount>
+        <MaximumOfferAmount>1000</MaximumOfferAmount>
+        <MinimumOrderAmount>10</MinimumOrderAmount>
+        <MaximumOrderAmount>1000</MaximumOrderAmount>
+        <CanPlayerOrder>true</CanPlayerOrder>
+
+        <MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+        <MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
+    </PhysicalItem>
