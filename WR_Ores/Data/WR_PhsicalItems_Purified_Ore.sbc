@@ -17,7 +17,7 @@
         <Volume>0.3</Volume>
         <Model>Models\Components\Sphere.mwm</Model>
         <PhysicalMaterial>Stone</PhysicalMaterial>
-        <IconSymbol>S</IconSymbol>
+        <IconSymbol>CuAs (P)</IconSymbol>
         <MinimalPricePerUnit>300</MinimalPricePerUnit>
         <MinimumOfferAmount>1500</MinimumOfferAmount>
         <MaximumOfferAmount>15000</MaximumOfferAmount>
@@ -45,7 +45,7 @@
         <Volume>0.3</Volume>
         <Model>Models\Components\Sphere.mwm</Model>
         <PhysicalMaterial>Stone</PhysicalMaterial>
-        <IconSymbol>S</IconSymbol>
+        <IconSymbol>Ga (P)</IconSymbol>
         <MinimalPricePerUnit>300</MinimalPricePerUnit>
         <MinimumOfferAmount>1500</MinimumOfferAmount>
         <MaximumOfferAmount>15000</MaximumOfferAmount>
@@ -73,7 +73,7 @@
         <Volume>0.3</Volume>
         <Model>Models\Components\Sphere.mwm</Model>
         <PhysicalMaterial>Stone</PhysicalMaterial>
-        <IconSymbol>S</IconSymbol>
+        <IconSymbol>Ge (P)</IconSymbol>
         <MinimalPricePerUnit>300</MinimalPricePerUnit>
         <MinimumOfferAmount>1500</MinimumOfferAmount>
         <MaximumOfferAmount>15000</MaximumOfferAmount>
@@ -101,7 +101,7 @@
         <Volume>0.3</Volume>
         <Model>Models\Components\Sphere.mwm</Model>
         <PhysicalMaterial>Stone</PhysicalMaterial>
-        <IconSymbol>S</IconSymbol>
+        <IconSymbol>VS4 (P)</IconSymbol>
         <MinimalPricePerUnit>300</MinimalPricePerUnit>
         <MinimumOfferAmount>1500</MinimumOfferAmount>
         <MaximumOfferAmount>15000</MaximumOfferAmount>
@@ -129,7 +129,7 @@
         <Volume>0.3</Volume>
         <Model>Models\Components\Sphere.mwm</Model>
         <PhysicalMaterial>Stone</PhysicalMaterial>
-        <IconSymbol>S</IconSymbol>
+        <IconSymbol>W (P)</IconSymbol>
         <MinimalPricePerUnit>300</MinimalPricePerUnit>
         <MinimumOfferAmount>1500</MinimumOfferAmount>
         <MaximumOfferAmount>15000</MaximumOfferAmount>
