@@ -17,7 +17,7 @@
         <Volume>0.052</Volume>
         <Model>Models\Ingots\uranium_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_U</IconSymbol>
+        <IconSymbol>As</IconSymbol>
         <MinimumOfferAmount>100</MinimumOfferAmount>
         <MaximumOfferAmount>1000</MaximumOfferAmount>
         <MinimumOrderAmount>10</MinimumOrderAmount>
@@ -44,7 +44,7 @@
         <Volume>0.052</Volume>
         <Model>Models\Ingots\uranium_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_U</IconSymbol>
+        <IconSymbol>Ga</IconSymbol>
         <MinimumOfferAmount>100</MinimumOfferAmount>
         <MaximumOfferAmount>1000</MaximumOfferAmount>
         <MinimumOrderAmount>10</MinimumOrderAmount>
@@ -71,7 +71,7 @@
         <Volume>0.052</Volume>
         <Model>Models\Ingots\uranium_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_U</IconSymbol>
+        <IconSymbol>Ge</IconSymbol>
         <MinimumOfferAmount>100</MinimumOfferAmount>
         <MaximumOfferAmount>1000</MaximumOfferAmount>
         <MinimumOrderAmount>10</MinimumOrderAmount>
@@ -98,7 +98,7 @@
         <Volume>0.052</Volume>
         <Model>Models\Ingots\uranium_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_U</IconSymbol>
+        <IconSymbol>V</IconSymbol>
         <MinimumOfferAmount>100</MinimumOfferAmount>
         <MaximumOfferAmount>1000</MaximumOfferAmount>
         <MinimumOrderAmount>10</MinimumOrderAmount>
@@ -125,7 +125,7 @@
         <Volume>0.052</Volume>
         <Model>Models\Ingots\uranium_ingot.mwm</Model>
         <PhysicalMaterial>Metal</PhysicalMaterial>
-        <IconSymbol>IconSymbol_U</IconSymbol>
+        <IconSymbol>W</IconSymbol>
         <MinimumOfferAmount>100</MinimumOfferAmount>
         <MaximumOfferAmount>1000</MaximumOfferAmount>
         <MinimumOrderAmount>10</MinimumOrderAmount>
